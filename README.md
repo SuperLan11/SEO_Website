@@ -3,7 +3,7 @@ Partway through the semester, the class voted between four products to advertise
 The winner was Spray-On Shoes, the fictional product from Cloudy with A Chance of Meatballs.
 This was a group project I worked on with two other members. 
 Each member's contributions are as follows.
-* Kyle Romero: Created the home page
+* Kyle Romero: Created the home, promotional, and blog pages
 * Landon Johnson: Created the shop page
 * Sebastian Lopez: Created the about page
 
