@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<!-- FONTS -->
+		<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-KQH3N5GB7R"></script>	
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-KQH3N5GB7R');
+		</script>
+		<script src="js/shop.js"></script>
+	   	<meta charset="utf-8">
+		<meta name="description" content="The best spray on shoes in Florida are here in Lakeland! At Spray Soles, you can easily afford our footwear and choose from many different styles and options">
+	   	<title>Spray Soles - Affordable Shoes for Sale</title>
+	   	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">   
+		<link rel="stylesheet" href="css/shopStyles.css" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	</head>
+
+	<body>
+		<header>
+                        <div>
+                                <a href="index.html">
+                                        <img src="images/spraysoleslogoNEW.png" alt="Logo" class="logo">
+                                </a>
+                        </div>
+
+                        <div class="nav-text">
+                                <nav>
+                                        <ul>
+                                                <li><strong><a href="index.html">Home</a></strong></li>
+                                                <li><a href="shop.html">Shop</a></li>
+                                                <li><a href="about.html">About</a></li>
+                                        </ul>
+                                </nav>
+                        </div>
+        	</header>
+
+		<main>
+			<aside style="font-family: Bebas Neue;">
+				<hr>
+				<!-- <div class="shopDiv">
+					<h1>Shop</h1>
+				</div> -->
+				<div class="filterDiv">
+					<h2>Filter</h2>
+				</div>
+				<hr>
+    			        <h3>Color</h3>
+		        	<div id="colorBoxes" activeFilter=false>
+					<span class="blue" selected=false onclick="filterColor('blue', true);"></span>
+					<span class="green" selected=false onclick="filterColor('green', true);"></span>
+					<span class="red" selected=false onclick="filterColor('red', true);"></span>
+					<span class="purple" selected=false onclick="filterColor('purple', true);"></span>
+					<span class="white" selected=false onclick="filterColor('white', true);"></span>
+					<span class="black" selected=false onclick="filterColor('black', true);"></span>
+		        	</div>
+				<hr>
+	 	        	<h3>Search</h3>
+		      		<input type="search" class="searchClass" placeholder="Press enter" activeFilter=false>
+				<hr>
+				<button onclick="clearFilters()">Clear Filters</button>
+	      		</aside>
+
+			<section id="results">
+ 			</section>
+		</main>
+	</body>
+
+	<footer>
+        	<div class="footer-text">
+                	     <p>SpraySoles© 2023</p>
+	        </div>
+
+            	<div class ="logo2" class="socialmedia">
+	                <a class= "logo3" href="https://www.twitter.com/SprayShoeHelp">
+	                    <i class="fab fa-twitter fa-2x"></i>
+	                </a>
+	                <a class ="logo3" href="https://www.facebook.com/profile.php?id=61552949278537">
+	                    <i class="fab fa-facebook fa-2x"></i>
+	                </a>
+	                <a class ="logo3" href="https://www.youtube.com/@SprayShoeStore">
+	                    <i class="fab fa-youtube fa-2x"></i>
+	                </a>
+	        </div>
+	 </footer>
+
+	<script>
+		document.getElementsByTagName("input")[0].addEventListener("keyup", 
+			function(event) 
+			{
+    				event.preventDefault();
+    				if (event.keyCode === 13) 
+				{
+					searchClick();
+	    			}
+			}
+		);
+	</script>
+</html>
