@@ -7,7 +7,7 @@ Each member's contributions are as follows.
 * Landon Johnson: Created the shop page
 * Sebastian Lopez: Created the about page
 
-The website was created on an EC2 instance using Amazon Web Services (AWS).
+The website was created on an EC2 instance using Amazon Web Services.
 The website is no longer active, but the source code in this repo lets you use the website as if it was.
 The goal of the project was to compete with the other groups for the highest ranking website.
 Other criteria for the website included a visually pleasing aesthetic, responsive design, and ease of navigation.
