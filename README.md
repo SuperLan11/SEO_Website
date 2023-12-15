@@ -12,7 +12,7 @@ The website is no longer active, but the source code in this repo lets you use t
 The goal of the project was to compete with other groups in our section for the highest ranking website.
 Other criteria for the website included a visually pleasing aesthetic, responsive design, and ease of navigation.
 The website used the domain sprayshoestore.com and the business name of SpraySoles.
-The website achieved the following at its peak:
+The website achieved the following at its peak.
 * 1st result with Bing search ”spray shoe store” (1st place result vs local competitors)
 * 1st result with Google search ”spray soles store” (1st place result vs local competitors)
 * 30th result with Google search “spray shoe store central florida” (1st place result vs local competitors)
