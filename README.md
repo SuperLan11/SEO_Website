@@ -3,15 +3,15 @@ Partway through the semester, classmates voted between four products to advertis
 The winner was Spray-On Shoes, the fictional product from Cloudy with A Chance of Meatballs.
 This was a group project I worked on with two other members. 
 Each member's contributions are as follows.
-* Kyle Romero: Created home page and its styling
-* Landon Johnson: Created shop page, its styling, and its JS
-* Sebastian Lopez: Created about page and its styling
+* Kyle Romero: Created the home page
+* Landon Johnson: Created the shop page
+* Sebastian Lopez: Created the about page
 
 The website was created on an EC2 instance using Amazon Web Services (AWS).
 The website is no longer active, but the source code in this repo lets you use the website as if it was.
 The goal of the project was to compete with other groups in our section for the highest ranking website.
 Other criteria for the website included a visually pleasing aesthetic, responsive design, and ease of navigation.
-The website used the domain sprayshoestore.com and the business name of SpraySoles.
+The website used the domain sprayshoestore.com and the business name SpraySoles.
 The website achieved the following at its peak.
 * 1st result with Bing search ”spray shoe store” (1st place result vs local competitors)
 * 1st result with Google search ”spray soles store” (1st place result vs local competitors)
