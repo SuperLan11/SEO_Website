@@ -9,8 +9,8 @@ This was a group project I worked on with two other members. Each member's contr
 The website was created on an EC2 instance using Amazon Web Services (AWS).
 The website is no longer active, but the source code in this repo lets you use the website as if it was.
 The website used the domain sprayshoestore.com and achieved the following at its peak:
-*1st result with Bing search ”spray shoe store” (1st place result vs local competitors)
-*1st result with Google search ”spray soles store” (1st place result vs local competitors)
-*30th result with Google search “spray shoe store central florida” (1st place result vs local competitors)
-*13th Result with Google search “spray shoe store lakeland” (2nd place result vs local competitors)
-*22nd result with Google search “best spray on shoes near Lakeland, FL” (3rd place result vs local competitors)
+* 1st result with Bing search ”spray shoe store” (1st place result vs local competitors)
+* 1st result with Google search ”spray soles store” (1st place result vs local competitors)
+* 30th result with Google search “spray shoe store central florida” (1st place result vs local competitors)
+* 13th Result with Google search “spray shoe store lakeland” (2nd place result vs local competitors)
+* 22nd result with Google search “best spray on shoes near Lakeland, FL” (3rd place result vs local competitors)
