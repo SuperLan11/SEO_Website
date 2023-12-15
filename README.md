@@ -9,7 +9,7 @@ Each member's contributions are as follows.
 
 The website was created on an EC2 instance using Amazon Web Services (AWS).
 The website is no longer active, but the source code in this repo lets you use the website as if it was.
-The goal of the project was to compete with the other groups for the highest ranking website.
+The goal of the project was to compete with other groups in our section for the highest ranking website.
 Other criteria for the website included a visually pleasing aesthetic, consistent layout, and ease of navigation.
 The website used the domain sprayshoestore.com and achieved the following at its peak:
 * 1st result with Bing search ”spray shoe store” (1st place result vs local competitors)
