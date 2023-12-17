@@ -19,4 +19,4 @@ The website achieved the following at its peak.
 * 13th Result with Google search “spray shoe store lakeland” (2nd place result vs local competitors)
 * 22nd result with Google search “best spray on shoes near Lakeland, FL” (3rd place result vs local competitors)
 
-To use the website, download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. As a side note, we used AI-generated art for the Neon Lightwear, Snowflake Sneakers, and Controller Kicks images.
+To use the website, download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. As a side note, we used AI-generated art for the Neon Lightwear, Snowflake Sneakers, Controller Kicks, and logo images.
