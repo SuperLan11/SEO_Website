@@ -8,7 +8,9 @@ The website was created on an EC2 instance using Amazon Web Services.
 The website is no longer active, but the source code in this repo lets you use the website as if it was.
 The goal of the project was to compete with the other groups for the highest ranking website.
 Other criteria for the website included a visually pleasing aesthetic, responsive design, and ease of navigation.
-The website used the domain sprayshoestore.com and the business name SpraySoles.
+The website used the domain sprayshoestore.com and the business name SpraySoles. 
+We used AI-generated art for the Neon Lightwear, Snowflake Sneakers, Controller Kicks, and logo images.
+
 The website achieved the following at its peak.
 * 1st result with Bing search ”spray shoe store” (1st place result vs local competitors)
 * 1st result with Google search ”spray soles store” (1st place result vs local competitors)
@@ -22,4 +24,4 @@ The website achieved the following at its peak.
 * Sebastian Lopez: Created the about page
 
 ## How to Use the Website
-Download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. As a side note, we used AI-generated art for the Neon Lightwear, Snowflake Sneakers, Controller Kicks, and logo images.
+Download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. 
