@@ -22,4 +22,4 @@ The website achieved the following at its peak.
 * Sebastian Lopez: Created the about page
 
 ## How to Use the Website
-To use the website, download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. As a side note, we used AI-generated art for the Neon Lightwear, Snowflake Sneakers, Controller Kicks, and logo images.
+Download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. As a side note, we used AI-generated art for the Neon Lightwear, Snowflake Sneakers, Controller Kicks, and logo images.
