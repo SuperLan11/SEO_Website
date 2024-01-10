@@ -1,11 +1,8 @@
+## Project Background
 The Top Rank SEO project was the final project for the Web Application Development course. 
 Partway through the semester, the class voted between four products to advertise in the site.
 The winner was Spray-On Shoes, the fictional product from Cloudy with A Chance of Meatballs.
 This was a group project I worked on with two other members. 
-Each member's contributions are as follows.
-* Kyle Romero: Created the home, promotional, and blog pages
-* Landon Johnson: Created the shop page
-* Sebastian Lopez: Created the about page
 
 The website was created on an EC2 instance using Amazon Web Services.
 The website is no longer active, but the source code in this repo lets you use the website as if it was.
@@ -19,4 +16,10 @@ The website achieved the following at its peak.
 * 13th Result with Google search “spray shoe store lakeland” (2nd place result vs local competitors)
 * 22nd result with Google search “best spray on shoes near Lakeland, FL” (3rd place result vs local competitors)
 
+## Teammate Contributions
+* Kyle Romero: Created the home, promotional, and blog pages
+* Landon Johnson: Created the shop page
+* Sebastian Lopez: Created the about page
+
+## How to Use the Website
 To use the website, download the zip file from the green code button, extract the folder, and open the index.html file in the extracted folder. As a side note, we used AI-generated art for the Neon Lightwear, Snowflake Sneakers, Controller Kicks, and logo images.
