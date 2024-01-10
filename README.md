@@ -18,7 +18,7 @@ The website achieved the following at its peak.
 * 13th Result with Google search “spray shoe store lakeland” (2nd place result vs local competitors)
 * 22nd result with Google search “best spray on shoes near Lakeland, FL” (3rd place result vs local competitors)
 
-## Teammate Contributions
+## Team Contributions
 * Kyle Romero: Created the home, promotional, and blog pages
 * Landon Johnson: Created the shop page
 * Sebastian Lopez: Created the about page
